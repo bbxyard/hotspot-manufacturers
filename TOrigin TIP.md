@@ -1,4 +1,5 @@
 ## TOrigin Technology — TOrigin TIP
+![](applications/torigin/torigin.png)
 
 ## Summary
 [https://torigin.tech/](https://torigin.tech/) focuses on the innovation and research and development of a new generation of IoT technology, providing customers with IoT products and solutions centered on artificial intelligence, big data, cloud computing, intelligent perception, and edge computing technologies. 
