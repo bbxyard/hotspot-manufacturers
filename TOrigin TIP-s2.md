@@ -64,11 +64,11 @@ It is a highly reliable, easy to use, indoor light hotspot for the Helium networ
 > We expected to start the production in Q2-2022 and start to deliver the first batch in June-2022.
 
 
-## Previous shipments (required) -- TODO
-Startups welcomed!
-* Have you shipped anything in the past? What types of products have you shipped?
-* Which countries have you previously shipped regulatory approved products? (FCC, CE, etc.) 
-* If you are a startup, are you partnering with another company? What experience does your team have?
+## Previous shipments
+**Q1. Which countries have you previously shipped regulatory approved products? (FCC, CE, etc.) ?**
+
+- **Southeast Asia**
+- **Africa**
 
 
 ## Which countries do you plan to ship to and get regulatory certifications for?
@@ -89,18 +89,21 @@ Over the past few years, TOrigin has sold products and served hundreds of custom
 **Q2. How long will the company provide customer support?**
 * Our products come with 1 year warranty, we plan to sell the hotspots through our distributor network, the customers can ship the defective units to our local distributors or directly to us,we will repair or replace those defective units.
 
-**Q3. How are you planning to handle repairs and replacements?**
-> TODO. comming soon
 
+## Hardware Security Element
 
-## Hardware Security Element ~~TODO~~
-* The community is concerned about devices that can be easily hacked, specifically by copying their swarm_key files. Applications should include plan for how the devices will be secured. The approved security element is an ECC608. If you would like to use an alternative security element your HIP19 will require additional review, please email the Helium Foundation (christina@helium.foundation).
-* Are you using an ECC608. **Yes** or No?
-* Encrypted/locked-down firmware. Yes or No? 
-* Encrypted storage of the miner swarm_key, either via disk encryption or hardware measures. Yes or No?
-* Encrypted buses, potting and other anti-tampering measures. Yes or No? (Please note, the final design will be audited against this statement. Do not answer 'yes' unless the design will have these features and a description of where they are implemented can be provided.)
-* Willingness to submit a prototype for audit, and sharing those audit results publicly (pass or fail) **Yes** or No?
-> ~~TODO~~ coming soon
+**Q1. Encrypted storage of the miner swarm_key, either via disk encryption or hardware measures？**
+
+> Yes, we use **ATECC608** crypto chip to increase the security of swam_key.
+
+**Q2. Encrypted buses, potting and other anti-tampering measures？**
+
+> Yes，Security boot and firmware signature. 
+
+**Q3. Willingness to submit a prototype for audit, and sharing those audit results publicly (pass or fail)？**
+
+> Yes
+
 
 
 ## Hardware Information
@@ -137,7 +140,7 @@ Over the past few years, TOrigin has sold products and served hundreds of custom
 
 
 ## Proof of Identity
-~~To be submitted privately.~~
+*To be submitted privately.*
 
 
 ## Budget & Capital
@@ -149,14 +152,16 @@ Over the past few years, TOrigin has sold products and served hundreds of custom
 
 > We prepared US$1.2M to support this project initially, we have around US$2M cash and can access up to US$3M.
 
-**Q3. What is your plan for additional financing if required?** (*This is the second biggest risk in new hardware ventures, getting almost over the line and then running out of cash.*) 
+**Q3. What is your plan for additional financing if required?** 
+(*This is the second biggest risk in new hardware ventures, getting almost over the line and then running out of cash.*) 
 
 > Our business is profitable, the shareholders could invest US$3M fund to support this project.
 
 
 ## Risks & Challenges
 The current challenge is the component supply, we are working with our supplier partners to ensure constant supply.
-
+- **Southeast Asia**
+- **Africa**
 
 
 ## Contact Info 
@@ -165,5 +170,6 @@ The current challenge is the component supply, we are working with our supplier 
 
 
 ## Payment methods available:
-**paypal/TT**
+- **paypal**
+- **TT**
 
