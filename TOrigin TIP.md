@@ -65,8 +65,9 @@ Startups welcomed!
 * If you are a startup, are you partnering with another company? What experience does your team have?
 
 
-## Which countries do you plan to ship to and get regulatory certifications for? (required) Please list specific countries, "worldwide" or "global" are not acceptable.
-> TODO. coming soon
+## Which countries do you plan to ship to and get regulatory certifications for?
+- **Southeast Asia**
+- **Africa**
 
 
 ## Customer Support
