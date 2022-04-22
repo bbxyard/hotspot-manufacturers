@@ -33,21 +33,27 @@ It is a highly reliable, easy to use, indoor light hotspot for the Helium networ
 **Features**
 - Concentrator based on the Semtech SX1302, Support EU868 and US915 
 
-**IPTV Parameters**
-* CPU：RK3566
-* RAM：4G
-* ROM：32G
-* Equipped with audio channel interface, left and right channels, video, ground 4 3.5mm RAC ports
-* IR receiver control
 
-**LoRaWAN frequencies**
-* 580MHz MIPS processor
-* 128MB DDR
-* 16MB Flash
-* Fast Ethernet and 2.4G Wi-Fi networks
-* Built-in ATECC608 security chip
-* OTA support
-* 12V DC Power 
+|**IPTV Parameters**|**Description**|
+|:---|---|
+|CPU|RK3566|
+|RAM|4G|
+|ROM|32G|
+|Spec1|Equipped with audio channel interface, left and right channels, video, ground 4 3.5mm RAC ports|
+|Spec2|IR receiver control|
+
+
+|**LoRaWAN frequencies**|**Description**|
+|:---|---|
+|CPU|580MHz MIPS processor|
+|RAM|128MB DDR|
+|ROM|16MB Flash|
+|Network|Fast Ethernet and 2.4G Wi-Fi networks|
+|Power|12V DC Power|
+|Spec1|Built-in ATECC608 security chip|
+|Spec2|OTA support|
+
+
 
 **What is your approximate price point?**
 
@@ -58,11 +64,11 @@ It is a highly reliable, easy to use, indoor light hotspot for the Helium networ
 > We expected to start the production in Q2-2022 and start to deliver the first batch in June-2022.
 
 
-## Previous shipments (required) -- TODO
-Startups welcomed!
-* Have you shipped anything in the past? What types of products have you shipped?
-* Which countries have you previously shipped regulatory approved products? (FCC, CE, etc.) 
-* If you are a startup, are you partnering with another company? What experience does your team have?
+## Previous shipments
+**Q1. Which countries have you previously shipped regulatory approved products? (FCC, CE, etc.) ?**
+
+- **Southeast Asia**
+- **Africa**
 
 
 ## Which countries do you plan to ship to and get regulatory certifications for?
@@ -83,73 +89,79 @@ Over the past few years, TOrigin has sold products and served hundreds of custom
 **Q2. How long will the company provide customer support?**
 * Our products come with 1 year warranty, we plan to sell the hotspots through our distributor network, the customers can ship the defective units to our local distributors or directly to us,we will repair or replace those defective units.
 
-**Q3. How are you planning to handle repairs and replacements?**
-> TODO. comming soon
 
+## Hardware Security Element
 
-## Hardware Security Element ~~TODO~~
-* The community is concerned about devices that can be easily hacked, specifically by copying their swarm_key files. Applications should include plan for how the devices will be secured. The approved security element is an ECC608. If you would like to use an alternative security element your HIP19 will require additional review, please email the Helium Foundation (christina@helium.foundation).
-* Are you using an ECC608. **Yes** or No?
-* Encrypted/locked-down firmware. Yes or No? 
-* Encrypted storage of the miner swarm_key, either via disk encryption or hardware measures. Yes or No?
-* Encrypted buses, potting and other anti-tampering measures. Yes or No? (Please note, the final design will be audited against this statement. Do not answer 'yes' unless the design will have these features and a description of where they are implemented can be provided.)
-* Willingness to submit a prototype for audit, and sharing those audit results publicly (pass or fail) **Yes** or No?
-> ~~TODO~~ coming soon
+**Q1. Encrypted storage of the miner swarm_key, either via disk encryption or hardware measures？**
+
+> Yes, we use **ATECC608** crypto chip to increase the security of swam_key.
+
+**Q2. Encrypted buses, potting and other anti-tampering measures？**
+
+> Yes，Security boot and firmware signature. 
+
+**Q3. Willingness to submit a prototype for audit, and sharing those audit results publicly (pass or fail)？**
+
+> Yes
+
 
 
 ## Hardware Information
 
 **Q1. Which security (swarm) element are you using?**
 
-ATECC608
+> ATECC608
 
 **Q2. Which LoRa chipset are you planning to use in your gateway (ie SX1302/03 & SX1250s or SX1301/08 & SX1255/57)?**
 
-SX1302/1303+SX1250
+> SX1302/1303+SX1250
 
 **Q3. Where are you sourcing your components from?**
 
-There are many sources for our components, including international well-known companies and local manufacturers.
+> There are many sources for our components, including international well-known companies and local manufacturers.
 
 **Q4. How many radio modules/ concentrators can you procure?**
 
-We have about 6Kpcs SX1302/1303+SX1250 components in stock and we can meet the demand in 2022.
+> We have about 6Kpcs SX1302/1303+SX1250 components in stock and we can meet the demand in 2022.
 
 
 ## Manufacturing Information
 **Q1. Have you built and delivered radio hardware products before?**
 
-Yes, we have built and delivered many radio hardware products with Wi-Fi / 4G / LoRa / Bluetooth radio.
+> Yes, we have built and delivered many radio hardware products with Wi-Fi / 4G / LoRa / Bluetooth radio.
 
 **Q2. Have you built gateways before?**
-Yes, We lanched our LoRa [IoT Gatway](https://www.torigin.tech/ProductInfoCategory?categoryId=633433) products over the years.
+
+> Yes, We lanched our LoRa [IoT Gatway](https://www.torigin.tech/ProductInfoCategory?categoryId=633433) products over the years.
 
 **Q3. How many gateways did you make?**
 
-10Kpcs
+> 10Kpcs
 
 
 ## Proof of Identity
-~~To be submitted privately.~~
+*To be submitted privately.*
 
 
 ## Budget & Capital
-* How many hotspots are you planning to manufacture and sell within the first six months of sales? 
+**Q1. How many hotspots are you planning to manufacture and sell within the first six months of sales?**
+
 > 10Kpcs in 2022.
 
-* How much money will be required up-front? How much money do you have on-hand, and how much do you have access to? 
+**Q2. How much money will be required up-front? How much money do you have on-hand, and how much do you have access to?**
+
 > We prepared US$1.2M to support this project initially, we have around US$2M cash and can access up to US$3M.
 
-* What is your plan for additional financing if required? (This is the second biggest risk in new hardware ventures, getting almost over the line and then running out of cash.) 
+**Q3. What is your plan for additional financing if required?** 
+(*This is the second biggest risk in new hardware ventures, getting almost over the line and then running out of cash.*) 
+
 > Our business is profitable, the shareholders could invest US$3M fund to support this project.
 
 
 ## Risks & Challenges
 The current challenge is the component supply, we are working with our supplier partners to ensure constant supply.
-
-
-## Other information if you do not provide contact information we cannot review your proposal
-
+- **Southeast Asia**
+- **Africa**
 
 
 ## Contact Info 
@@ -158,5 +170,6 @@ The current challenge is the component supply, we are working with our supplier 
 
 
 ## Payment methods available:
-**paypal/TT**
+- **paypal**
+- **TT**
 
