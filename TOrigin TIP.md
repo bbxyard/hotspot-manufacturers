@@ -173,7 +173,7 @@ Evidence of a functioning prototype - photos/videos. Renderings are OK but physi
 > 5Kpcs
 
 **Q4. If you have not built gateways before, are you using a third party manufacturer or working with a partner? This is the single largest risk with most hardware ventures. If possible please provide information about your manufacturing partners and supply chain.**
-> TODO
+> Foxconn, a high-tech company under Hon Hai Precision Industry Co., Ltd., was founded in 1974 by Terry Gou who is now its Chairman. The company now boasts over 1.2 million employees and a global fleet of clientele.
 
 **Q5. Where are you sourcing your components from?**
 > There are many sources for our components, including international well-known companies and local manufacturers.
