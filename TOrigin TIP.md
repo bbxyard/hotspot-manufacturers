@@ -9,7 +9,7 @@
 > **TOrigin Technology**
 
 **Q2. How long has the company been in business?**
-> Founded in 2021, TOrigin is located in HongKong，China. The founder and core team members have been designing and manufacturing Single Board Computers for more than 10 years.
+> Founded in 2019, TOrigin is located in HongKong，China. Founder and core team members have designed and manufactured chips and gateway devices for over 10 years.
 
 **Q3. What kind of products have you created? (list specific products)**
 > - TOrigin’s business covers IoT communication products based on LoRa, NB-Iot, LTE, UWB, etc. We have multi-scenario applications in urban pipe network detection and monitoring, roadside smart parking, and indoor positioning.
@@ -37,7 +37,7 @@
 |Expected Release Date|Q2 2022|
 
 **Q1. What is this product's model name?**
-> **TOrigin TIP**state
+> **TOrigin TIP**
 
 **Q2. Is this is a Light Hotspot or a 5G Hotspot? (Due to the time required for the HIP19 process, new applications should be for Light Hotspots or 5G Hotspots)**
 > Yes It’s Light Hotspot.
@@ -173,7 +173,7 @@ Evidence of a functioning prototype - photos/videos. Renderings are OK but physi
 > 5Kpcs
 
 **Q4. If you have not built gateways before, are you using a third party manufacturer or working with a partner? This is the single largest risk with most hardware ventures. If possible please provide information about your manufacturing partners and supply chain.**
-> Foxconn, a high-tech company under Hon Hai Precision Industry Co., Ltd., was founded in 1974 by Terry Gou who is now its Chairman. The company now boasts over 1.2 million employees and a global fleet of clientele.
+> Foxconn, a high-tech company under Hon Hai Precision Industry Co., Ltd., was founded in 1974 by Terry Gou who is now its Chairman. The company now boasts over 1.2 million employees and a global fleet of clientele;
 
 **Q5. Where are you sourcing your components from?**
 > There are many sources for our components, including international well-known companies and local manufacturers.
