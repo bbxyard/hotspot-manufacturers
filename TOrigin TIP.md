@@ -16,8 +16,9 @@
 > - It has multi-scenario applications in urban pipe network detection and monitoring, roadside smart parking, and indoor positioning.
 
 ![](applications/torigin/torigin-lora.png)
-![](applications/torigin/torigin-prod-a.png)
-![](applications/torigin/torigin-prod-b.png)
+![](applications/torigin/torigin-prod-1.png)
+![](applications/torigin/torigin-prod-2.png)
+![](applications/torigin/torigin-prod-3.png)
 
 
 **Q4. How many have you sold?**
